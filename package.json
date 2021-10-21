@@ -1,0 +1,20 @@
+{
+  "name": "devproject",
+  "version": "1.0.0",
+  "description": "Eoin Dan project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainCuddles99/DevProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptainCuddles99/DevProject/issues"
+  },
+  "homepage": "https://github.com/CaptainCuddles99/DevProject#readme"
+}
